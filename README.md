@@ -1,4 +1,4 @@
-# nobu10_data_movie_format
+# 蒼天録 - MOVIE - フォーマット
 
 蒼天録のムービーは MPEG ファイル。
 フォーマットとしては、以下
